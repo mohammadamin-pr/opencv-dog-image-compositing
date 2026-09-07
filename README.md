@@ -1,0 +1,1 @@
+# opencv-dog-image-compositing
